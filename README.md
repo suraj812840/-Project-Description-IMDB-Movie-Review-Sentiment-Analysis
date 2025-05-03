@@ -1,0 +1,2 @@
+# -Project-Description-IMDB-Movie-Review-Sentiment-Analysis
+In this project, the objective is to build a sentiment analysis model using Natural Language Processing (NLP) to classify IMDB movie reviews as positive or negative. Sentiment analysis is an important task in NLP, helping businesses, content creators, and researchers analyze user opinions or feedback on a particular subject, in this case, movies.
